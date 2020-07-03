@@ -1,9 +1,7 @@
-1. Python_IX_Precurse
-    - map/filter, reduce (itertools)
-2. Exercises_1-8_v5
-3. https://www.practicepython.org/
-4. exercises/dictionary_exercise-9
-5. exercises/flota/exercises_hundir_flota
+1. Lineal_Algebra_Calculus_Python
+2. Visualizacion-datos
+2. exercises/algebra/.. 
+3. exercises/numpy_class_module_example
 
 ---------
 

@@ -1,9 +1,7 @@
-1. Python_IX_Precurse
-    - map/filter, reduce (itertools)
-2. Exercises_1-8_v5
-3. https://www.practicepython.org/
-4. exercises/dictionary_exercise-9
-5. exercises/flota/exercises_hundir_flota
+1. Probability
+2. Montyhall_problem
+3. Distributions
+4. exercises/
 
 ---------
 
